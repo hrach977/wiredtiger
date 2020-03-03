@@ -21,6 +21,7 @@ static int __backup_stop(WT_SESSION_IMPL *, WT_CURSOR_BACKUP *);
 /*
  * __wt_backup_destroy --
  *     Destroy any backup information. New comment text.
+ *     New text here too.
  */
 void
 __wt_backup_destroy(WT_SESSION_IMPL *session)
